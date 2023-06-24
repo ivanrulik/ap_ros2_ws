@@ -1,0 +1,6 @@
+# list of ignored files and folders
+build/
+install/
+log/
+!/src/
+src/*
